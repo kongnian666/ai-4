@@ -1,0 +1,7 @@
+{
+  "name": "SmartAttendance - 智能考勤系统",
+  "description": "A modern, AI-powered attendance and schedule management system featuring interactive calendars, course tracking, and intelligent reporting using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
